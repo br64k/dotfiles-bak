@@ -1,0 +1,7 @@
+theme = GruvBox Dark
+font-family = BlexMono Nerd Font Mono
+macos-icon = xray
+macos-titlebar-style = hidden
+
+quick-terminal-position = center
+keybind = global:cmd+backquote=toggle_quick_terminal
